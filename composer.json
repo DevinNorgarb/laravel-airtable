@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": ">=7.0",
         "guzzlehttp/guzzle": "~6.0",
-        "illuminate/support": "5.* || 5.8.* || 6.* || 7.*",
+        "illuminate/support": "5.0.* || 5.2.* || 5.4.* || 5.8.* || 6.* || 7.*",
         "symfony/dotenv": "^4.2 || ^5.1"
     },
     "require-dev": {
